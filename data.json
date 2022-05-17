@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "computer",
+        "price": "11800",
+        "quantity": 700,
+        "selected": false,
+        "available": true
+      },
+      {
+        "id": 2,
+        "name": "printer",
+        "price": 300,
+        "quantity": 600,
+        "selected": true,
+        "available": true
+      },
+      {
+        "id": 3,
+        "name": "smartphone",
+        "price": 300,
+        "quantity": 600,
+        "selected": false,
+        "available": true
+      },
+      {
+        "id": 4,
+        "name": "computer",
+        "price": "11800",
+        "quantity": 700,
+        "selected": false,
+        "available": true
+      },
+      {
+        "id": 5,
+        "name": "printer",
+        "price": 300,
+        "quantity": 600,
+        "selected": true,
+        "available": true
+      },
+      {
+        "id": 6,
+        "name": "smartphone",
+        "price": 300,
+        "quantity": 600,
+        "selected": false,
+        "available": true
+      },
+      {
+        "id": 7,
+        "name": "computer",
+        "price": "11800",
+        "quantity": "230",
+        "selected": false,
+        "available": true
+      },
+      {
+        "id": 8,
+        "name": "printer",
+        "price": 300,
+        "quantity": "500",
+        "selected": false,
+        "available": true
+      }
+    ]
+  }
